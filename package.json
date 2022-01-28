@@ -1,25 +1,28 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-timeline",
+  "version": "1.0.0",
+  "description": "Horizontal and vertical examples of responsive Timelines built with the latest Bootstrap 5. Easy to use and customize.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-timeline.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "timeline",
     "bootstrap5",
-    "circle-image-view"
+    "bootstrap-timeline",
+    "timeline-with-images",
+    "horizontal-timeline",
+    "timeline-with-cards"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-timeline/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/timeline/"
 }
